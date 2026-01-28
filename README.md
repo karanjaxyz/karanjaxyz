@@ -1,5 +1,7 @@
 ## Projects
 
+🤖 **[Soma Agent](https://github.com/karanjaxyz/soma_agent)** – Agentic document chat with semantic search, ask questions across your files 
+
 🕵🏾‍♂️ **[StealThisLook](https://github.com/karanjaxyz/stealthislook)** – Upload a fashion photo and instantly find the same (or similar) pieces online using automated item detection, smart cropping, and reverse image search  
 
 🧬 **[ndogo](https://github.com/karanjaxyz/ndogo)** – Tiny in-memory vector database for fast similarity search (port of Miguel’s Tiny vector DB in Rust)  
