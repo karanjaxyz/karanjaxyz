@@ -1,16 +1,23 @@
-## Hi there 👋
+## Projects
 
-<!--
-**karanjaxyz/karanjaxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 **Keja AI** – Agentic AI for automated property hunting using browser automation + vision models  
 
-Here are some ideas to get you started:
+🗣️ **KikuyuGPT** – Fine-tuned Llama models for Kikuyu using LoRA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✂️ **Snippette** – AI system that turns long-form videos into short-form clips (GCP-backed)  
+
+🔳 **AI QR Code Generator** – Stable Diffusion–powered artistic QR codes with scalable GPU serving  
+
+🧠 **Soma** – High-performance semantic search/chat system with optimized vector queries  
+
+🌱 **Panda** – Carbon credit valuation powered by Chainlink oracles + satellite data  
+
+💸 **Pesamoon** – Production crypto payments app on Fantom (mobile)  
+
+⚡ **Kronos** – Gasless Web3 UX using meta-transactions (OpenGSN featured)  
+
+🛠️ **Everything Smart Contracts** – Multi-chain smart contract deployment platform  
+
+📉 **Flatcoin** – Algorithmic commodity-backed stablecoin (Chainlink hackathon project)  
+
+📚 **Fikira** – Gamified learning app with custom spaced repetition algorithm  
