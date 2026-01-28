@@ -1,23 +1,33 @@
 ## Projects
 
-🏠 **Keja AI** – Agentic AI for automated property hunting using browser automation + vision models  
+🕵🏾‍♂️ **[StealThisLook](https://github.com/karanjaxyz/stealthislook)** – Upload a fashion photo and instantly find the same (or similar) pieces online using automated item detection, smart cropping, and reverse image search  
 
-🗣️ **KikuyuGPT** – Fine-tuned Llama models for Kikuyu using LoRA  
+🧬 **[ndogo](https://github.com/karanjaxyz/ndogo)** – Tiny in-memory vector database for fast similarity search (port of Miguel’s Tiny vector DB in Rust)  
 
-✂️ **Snippette** – AI system that turns long-form videos into short-form clips (GCP-backed)  
+🏠 **[Keja AI](https://github.com/karanjaxyz/kejaAI)** – Agentic AI for automated property hunting using browser automation and vision models
 
-🔳 **AI QR Code Generator** – Stable Diffusion–powered artistic QR codes with scalable GPU serving  
+🔳 **[AI QR Code Generator](https://github.com/karanjaxyz/ai-qr-code)** – Stable Diffusion–powered artistic QR codes with scalable GPU infrastructure  
 
-🧠 **Soma** – High-performance semantic search/chat system with optimized vector queries  
+🌱 **[Panda](https://github.com/karanjaxyz/panda)** – Carbon credit valuation engine using Chainlink oracles + satellite data  
 
-🌱 **Panda** – Carbon credit valuation powered by Chainlink oracles + satellite data  
+⚡ **[Kronos](https://github.com/karanjaxyz/Kronos-gas-free-mints)** – Gasless Web3 UX using meta-transactions (featured in OpenGSN community)  
 
-💸 **Pesamoon** – Production crypto payments app on Fantom (mobile)  
+🛠️ **[Everything Smart Contracts](https://github.com/karanjaxyz/everything-smart-contracts)** – Multi-chain smart contract deployment platform  
 
-⚡ **Kronos** – Gasless Web3 UX using meta-transactions (OpenGSN featured)  
+💸 **[Pesamoon](https://github.com/karanjaxyz/pesamoon)** – Production crypto payments mobile app on Fantom  
 
-🛠️ **Everything Smart Contracts** – Multi-chain smart contract deployment platform  
+📉 **[Flatcoin](https://github.com/karanjaxyz/2021-Chainlink-Hackathon-Flatcoin)** – Algorithmic commodity-backed stablecoin (Chainlink hackathon project)  
 
-📉 **Flatcoin** – Algorithmic commodity-backed stablecoin (Chainlink hackathon project)  
+🧠 **[Soma](https://github.com/karanjaxyz/soma-os)** – High-performance semantic search and chat system with optimized vector queries  
 
-📚 **Fikira** – Gamified learning app with custom spaced repetition algorithm  
+✂️ **Snippette** – AI system that converts long-form videos into short-form clips  
+
+🗣️ **[KikuyuGPT](https://github.com/karanjaxyz/kikuyuGPT)** – Fine-tuned Llama models for Kikuyu using LoRA  
+
+👕 **[VITON using CycleGANs](https://github.com/karanjaxyz/viton-using-cycle-gans)** – Experimental virtual try-on using unpaired image translation  
+
+📊 **[FTMStats](https://github.com/karanjaxyz/ftmstats)** – Dashboard showing Fantom wallet analytics (txs, gas usage, interaction stats)  
+
+📓 **[Transfer Learning Notebook](https://github.com/karanjaxyz/transfer-learning)** – Lightweight Colab exploring transfer learning concepts  
+
+📚 **[Fikira](https://github.com/karanjaxyz/fikira)** – Gamified learning app with custom spaced repetition algorithm  
